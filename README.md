@@ -9,3 +9,5 @@ https://www.wired.com/story/how-instagram-became-russian-iras-social-network
 https://www.wired.com/story/russia-ira-propaganda-senate-report/
 
 https://www.wired.com/story/russia-secondary-infektion-disinformation/
+
+https://www.securityweek.com/facebook-nabs-russia-linked-campaign-fuel-us-chaos
