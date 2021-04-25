@@ -11,3 +11,5 @@ https://www.wired.com/story/russia-ira-propaganda-senate-report/
 https://www.wired.com/story/russia-secondary-infektion-disinformation/
 
 https://www.securityweek.com/facebook-nabs-russia-linked-campaign-fuel-us-chaos
+
+https://www.bleepingcomputer.com/news/security/us-sanctions-cryptocurrency-addresses-linked-to-russian-cyberactivities/
